@@ -23,8 +23,12 @@ Please watch the recorded 30-min lecture before we start
 
 11:00 - 11:15 Group discussion of recorded lecture
 
-11:15-11:30 Splitting up in groups to discuss and form questions about the recorded lecture
-11:30-11:45 Q&A where every group will ask one question (more if we have time)
-11:45-12:00 Introduction to the activity - background material
-12:00-1:45 Activity
-1:45-2:00 Final discussion 
+11:15 - 11:30 Splitting up in groups to discuss and form questions about the recorded lecture
+
+11:30 - 11:45 Q&A where every group will ask one question (more if we have time)
+
+11:45 - 12:00 Introduction to the activity - background material
+
+12:00 - 01:45 Activity
+
+01:45 - 02:00 Final discussion 
