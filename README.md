@@ -32,3 +32,8 @@ Please watch the recorded 30-min lecture before we start
 12:00 - 01:45 Activity
 
 01:45 - 02:00 Final discussion 
+
+## Binder
+
+The Jupyter Notebook can be run from Binder using the following link:
+https://mybinder.org/v2/gh/sagiuliani/NS3_2020.git/master?filepath=notebook%2Fmasses.ipynb
