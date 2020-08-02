@@ -34,7 +34,7 @@ Please watch the recorded 30-min lecture before we start
 01:45 - 02:00 Final discussion 
 
 
-## Binder
+## Launch on Binder without installing anything!
 
 The Jupyter Notebook can be run from Binder:
 
